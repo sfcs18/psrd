@@ -1,0 +1,9 @@
+PROCESSED on Tue, 12 Feb 2019 08:26:06 +0000
+/wp-content/plugins/jetpack/modules/related-posts/related-posts.css --- Debug: [jetpack_related-posts] File was opened from /home/psrd/public_html/wp-content/plugins/jetpack/modules/related-posts/related-posts.css ---
+/wp-content/plugins/poll-wp/CSS/Total-Soft-Poll-Widget.css --- Debug: [Total_Soft_Poll] File was opened from /home/psrd/public_html/wp-content/plugins/poll-wp/CSS/Total-Soft-Poll-Widget.css ---
+/wp-content/plugins/poll-wp/CSS/totalsoft.css --- Debug: [fontawesome-css] File was opened from /home/psrd/public_html/wp-content/plugins/poll-wp/CSS/totalsoft.css ---
+/wp-content/plugins/jetpack/modules/likes/style.css --- Debug: [jetpack_likes] File was opened from /home/psrd/public_html/wp-content/plugins/jetpack/modules/likes/style.css ---
+/wp-content/themes/patus/style.css --- Debug: [patus-style] File was opened from /home/psrd/public_html/wp-content/themes/patus/style.css ---
+/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css --- Debug: [jetpack-widget-social-icons-styles] File was opened from /home/psrd/public_html/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css ---
+/wp-content/plugins/jetpack/css/jetpack.css --- Debug: [jetpack_css] File was opened from /home/psrd/public_html/wp-content/plugins/jetpack/css/jetpack.css ---
+PROCESSED from https://psrd.sfc-s.net/midterm-impression/

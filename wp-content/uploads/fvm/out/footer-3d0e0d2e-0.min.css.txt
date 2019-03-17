@@ -1,0 +1,3 @@
+PROCESSED on Fri, 22 Feb 2019 18:26:24 +0000
+/wp-content/plugins/jetpack/css/jetpack.css --- Debug: [jetpack_css] File was opened from /home/psrd/public_html/wp-content/plugins/jetpack/css/jetpack.css ---
+PROCESSED from https://psrd.sfc-s.net/wp-login.php?redirect_to=https%3A%2F%2Fpsrd.sfc-s.net%2Fwp-admin%2F&reauth=1
