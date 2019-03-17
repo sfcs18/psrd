@@ -1,9 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-xmlns:content="http://purl.org/rss/1.0/modules/content/"
-xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-xmlns:dc="http://purl.org/dc/elements/1.1/"
-xmlns:atom="http://www.w3.org/2005/Atom"
-xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-><channel><title>政策紹介 &#8211; 公共の場をデザイン</title> <atom:link href="/category/%E6%94%BF%E7%AD%96%E7%B4%B9%E4%BB%8B/feed/" rel="self" type="application/rss+xml" /><link>/</link> <description>人の間にやさしい空間を</description> <lastBuildDate> Sat, 12 May 2018 17:35:35 +0000 </lastBuildDate> <language>ja</language> <sy:updatePeriod> hourly </sy:updatePeriod> <sy:updateFrequency> 1 </sy:updateFrequency> <generator>https://wordpress.org/?v=5.1.1</generator> <site xmlns="com-wordpress:feed-additions:1">146345782</site> <item><title>中間発表で使った3Dのイメージ図データ公開</title><link>/midteam-3d-image-model/</link> <comments>/midteam-3d-image-model/#respond</comments> <pubDate>Sat, 12 May 2018 17:07:00 +0000</pubDate> <dc:creator><![CDATA[asuka]]></dc:creator> <category><![CDATA[政策紹介]]></category><guid isPermaLink="false">/?p=23</guid> <description><![CDATA[当コーカスでは中間発表で3D CADを使って作ったイメージ図を使用しました。 発表の都合じっくり見て、あるいは視点を変えてみることが出来なかったことを残念に思った方も居るはずです。 そこで3Dモデルとそのテクスチャを公開 [&#8230;]]]></description> <content:encoded><![CDATA[<p>当コーカスでは中間発表で3D CADを使って作ったイメージ図を使用しました。</p><p>発表の都合じっくり見て、あるいは視点を変えてみることが出来なかったことを残念に思った方も居るはずです。</p><p>そこで3Dモデルとそのテクスチャを公開します。</p><p><span id="more-23"></span></p><p>ダウンロード・利用上の注意は<a href="https://github.com/okinjp/psrd-3d/blob/master/README.md">こちら</a></p><p><img class="alignnone size-medium wp-image-52" src="/wp-content/uploads/2018/05/2018-05-10-7-300x250.png" alt="" width="300" height="250" srcset="/wp-content/uploads/2018/05/2018-05-10-7-300x250.png 300w, /wp-content/uploads/2018/05/2018-05-10-7.png 581w" sizes="(max-width: 300px) 100vw, 300px" /></p><p>近日中に3DモデルをHP上で見られるよう準備しています！</p> ]]></content:encoded> <wfw:commentRss>/midteam-3d-image-model/feed/</wfw:commentRss> <slash:comments>0</slash:comments> <post-id xmlns="com-wordpress:feed-additions:1">23</post-id> </item> <item><title>中間発表スライドを公開します。</title><link>/midterm-slide/</link> <comments>/midterm-slide/#respond</comments> <pubDate>Sat, 12 May 2018 16:44:13 +0000</pubDate> <dc:creator><![CDATA[asuka]]></dc:creator> <category><![CDATA[政策紹介]]></category><guid isPermaLink="false">/?p=34</guid> <description><![CDATA[今回中間発表で当コーカスが使用したスライドを公開します。本番では時間が無くじっくり見ることが出来なかった方も多いと思うので、政策をよく知ってもらうために公開することにしました。]]></description> <content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-41" src="/wp-content/uploads/2018/05/2018-05-13_01-51-13-300x168.png" alt="" width="300" height="168" srcset="/wp-content/uploads/2018/05/2018-05-13_01-51-13-300x168.png 300w, /wp-content/uploads/2018/05/2018-05-13_01-51-13-768x431.png 768w, /wp-content/uploads/2018/05/2018-05-13_01-51-13.png 796w" sizes="(max-width: 300px) 100vw, 300px" /><br /> 今回中間発表で当コーカスが使用したスライドを公開します。本番では時間が無くじっくり見ることが出来なかった方も多いと思うので、政策をよく知ってもらうために公開することにしました。<br /> <span id="more-34"></span></p><p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqFcvhhUuIpWH4Xl4b9thK-9jRXVRVEaQdKJ_uDNrEO4OFQd-yrIg1rMoSzwgI_xJxLystEddgKQ5V/embed?start=false&amp;loop=false&amp;delayms=3000" width="640" height="325" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p> ]]></content:encoded> <wfw:commentRss>/midterm-slide/feed/</wfw:commentRss> <slash:comments>0</slash:comments> <post-id xmlns="com-wordpress:feed-additions:1">34</post-id> </item> </channel> </rss>
+>
+
+<channel>
+	<title>政策紹介 &#8211; 公共の場をデザイン</title>
+	<atom:link href="/category/%E6%94%BF%E7%AD%96%E7%B4%B9%E4%BB%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>人の間にやさしい空間を</description>
+	<lastBuildDate>
+	Sat, 12 May 2018 17:35:35 +0000	</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">146345782</site>	<item>
+		<title>中間発表で使った3Dのイメージ図データ公開</title>
+		<link>/midteam-3d-image-model/</link>
+				<comments>/midteam-3d-image-model/#respond</comments>
+				<pubDate>Sat, 12 May 2018 17:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[asuka]]></dc:creator>
+				<category><![CDATA[政策紹介]]></category>
+
+		<guid isPermaLink="false">/?p=23</guid>
+				<description><![CDATA[当コーカスでは中間発表で3D CADを使って作ったイメージ図を使用しました。 発表の都合じっくり見て、あるいは視点を変えてみることが出来なかったことを残念に思った方も居るはずです。 そこで3Dモデルとそのテクスチャを公開 [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>当コーカスでは中間発表で3D CADを使って作ったイメージ図を使用しました。</p>
+<p>発表の都合じっくり見て、あるいは視点を変えてみることが出来なかったことを残念に思った方も居るはずです。</p>
+<p>そこで3Dモデルとそのテクスチャを公開します。</p>
+<p><span id="more-23"></span></p>
+<p>ダウンロード・利用上の注意は<a href="https://github.com/okinjp/psrd-3d/blob/master/README.md">こちら</a></p>
+<p><img class="alignnone size-medium wp-image-52" src="/wp-content/uploads/2018/05/2018-05-10-7-300x250.png" alt="" width="300" height="250" srcset="/wp-content/uploads/2018/05/2018-05-10-7-300x250.png 300w, /wp-content/uploads/2018/05/2018-05-10-7.png 581w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>近日中に3DモデルをHP上で見られるよう準備しています！</p>
+]]></content:encoded>
+							<wfw:commentRss>/midteam-3d-image-model/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">23</post-id>	</item>
+		<item>
+		<title>中間発表スライドを公開します。</title>
+		<link>/midterm-slide/</link>
+				<comments>/midterm-slide/#respond</comments>
+				<pubDate>Sat, 12 May 2018 16:44:13 +0000</pubDate>
+		<dc:creator><![CDATA[asuka]]></dc:creator>
+				<category><![CDATA[政策紹介]]></category>
+
+		<guid isPermaLink="false">/?p=34</guid>
+				<description><![CDATA[今回中間発表で当コーカスが使用したスライドを公開します。本番では時間が無くじっくり見ることが出来なかった方も多いと思うので、政策をよく知ってもらうために公開することにしました。]]></description>
+								<content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-41" src="/wp-content/uploads/2018/05/2018-05-13_01-51-13-300x168.png" alt="" width="300" height="168" srcset="/wp-content/uploads/2018/05/2018-05-13_01-51-13-300x168.png 300w, /wp-content/uploads/2018/05/2018-05-13_01-51-13-768x431.png 768w, /wp-content/uploads/2018/05/2018-05-13_01-51-13.png 796w" sizes="(max-width: 300px) 100vw, 300px" /><br />
+今回中間発表で当コーカスが使用したスライドを公開します。本番では時間が無くじっくり見ることが出来なかった方も多いと思うので、政策をよく知ってもらうために公開することにしました。<br />
+<span id="more-34"></span></p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqFcvhhUuIpWH4Xl4b9thK-9jRXVRVEaQdKJ_uDNrEO4OFQd-yrIg1rMoSzwgI_xJxLystEddgKQ5V/embed?start=false&amp;loop=false&amp;delayms=3000" width="640" height="325" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+							<wfw:commentRss>/midterm-slide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">34</post-id>	</item>
+	</channel>
+</rss>
